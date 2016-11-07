@@ -2,7 +2,7 @@
  * Created by zhengpeng on 2016/11/4.
  */
 const Webpack = require("webpack");
-const WebpackDevServer = require('webpack-dev-server')
+const WebpackDevServer = require('webpack-dev-server');
 const webpackConfig = require("./webpack.config");
 
 var compiler = Webpack(webpackConfig);
