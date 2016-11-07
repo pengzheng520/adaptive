@@ -1,2 +1,9 @@
-# adaptive
-webpack脚手架(能反向代理)
+###含有移动端适配
+
+####npm start
+
+####npm bulid
+
+####反向代理
+
+
